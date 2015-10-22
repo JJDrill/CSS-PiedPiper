@@ -1,0 +1,41 @@
+h1 {
+	margin: 2%;
+}
+
+.left-menu {
+	float: left;
+	width: 10%;
+	height: 80vh;
+	margin: 2%;
+	border: 1px solid;
+	padding-left: 1%
+}
+
+.content {
+	float: left;
+	width: 50%;
+	margin-bottom: 3%;
+}
+
+.product-list {
+	width: 80%;
+}
+
+.product {
+	width: 200px;
+	height: 200px;
+	border: 1px solid;
+	float: left;
+	margin-right: 4%;
+}
+
+.product h3 {
+	margin-left: 5%;
+}
+
+.product-image {
+	width: 75px;
+	height: 75px;
+	border: 1px solid;
+	margin: 0 auto;
+}
